@@ -1,8 +1,12 @@
 def create_an_empty_array
+  
   []
+  
 end
 
 def create_an_array
+  
+  ["item0", "item1", "item2", "item3"]
   
 end
 
