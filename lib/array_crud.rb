@@ -12,7 +12,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
-  array1=[1,2,3,4]
+  arry = []
   array1 << 5
   
 end
